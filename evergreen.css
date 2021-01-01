@@ -1,0 +1,82 @@
+header {
+    background-color: white;
+    max-width: 100%;
+    padding-top: 30px;
+}
+p {
+    color: rgb(28, 160, 28);
+    margin-left: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: 15px;
+    display: inline-block;
+}
+img {
+    height: 50px;
+    float: left;
+}
+a {
+    padding-left: 75%;
+    word-spacing: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.a {
+    width: 25px;
+    height: 30px;
+    float: right;
+}
+#box {
+    height: 50%;
+    text-align: center;
+    background-image: url(images.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 15px;
+}
+div div{
+    width: 40%;
+    margin: auto;
+    color: white;
+    margin-bottom: 10px;
+}
+div ~ input {
+    border-radius: 2%;
+    border: hidden;
+    padding: 10px;
+}
+.terms{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+p span {
+    text-decoration: underline;
+}
+p ~ input {
+    background-color: rgb(29, 218, 92);
+    text-align: center;
+    width: 40%;
+    border: hidden;
+    border-radius: 5px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2 span {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.google {
+    background-color: white;
+    width: 20%;
+    color: black;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div img {
+    height: 20px;
+    margin-left: 30px;
+}
